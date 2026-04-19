@@ -39,7 +39,6 @@ int main() {
   printf("%p , %p \n", &arr[0], &arr);
   //to de reference a value outsid printf statement we do:
   //*(value) or if it was an array *(value[index_number]);
-
   /*
    * the address of both first element in the arra and the array is same
    * because the name of the array point at the first element of the array
