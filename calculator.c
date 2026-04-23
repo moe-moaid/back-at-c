@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-#include <regex.h>
-#include <ctype.h>
 
 void inter_polator(char *s)
 {
